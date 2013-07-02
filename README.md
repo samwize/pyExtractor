@@ -34,3 +34,5 @@ The repository includes a test file that contains some garbage. Clone the reposi
 	python extract.py -m test.txt 
 
 A `test - mobile.csv` containing the results will be generated.
+
+Similarly you can use `-e` for emails, `u` for URLs, `d` for domains, or `a` for all types.
